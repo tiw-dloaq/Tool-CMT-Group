@@ -1,0 +1,34 @@
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\api cmt anh va text.exe.config
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\api cmt anh va text.exe
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\api cmt anh va text.pdb
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.csproj.AssemblyReference.cache
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api_cmt_anh_va_text.Form1.resources
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api_cmt_anh_va_text.Properties.Resources.resources
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.csproj.GenerateResource.cache
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.exe
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.pdb
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\RestSharp.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Buffers.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Memory.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Text.Json.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.ValueTuple.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\xNet.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\RestSharp.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Buffers.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Memory.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Text.Json.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\System.ValueTuple.xml
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\obj\Debug\api cmt anh va text.csproj.CopyComplete
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lavan\Desktop\KTEAM\api cmt anh va text\api cmt anh va text\bin\Debug\Newtonsoft.Json.xml
